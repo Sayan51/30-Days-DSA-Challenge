@@ -1,4 +1,6 @@
 # ✅ 1️⃣ Two Sum
+
+```markdown
 # Intuition
 The problem asks us to find two numbers in the array whose sum equals a given target.
 
