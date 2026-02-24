@@ -47,11 +47,13 @@ Each problem contains:
 
 ### 🗂 Week 1: Arrays
 
-- 🔢 [Two Sum](./Week-1-Arrays/04-Two-Sum/)
 - 🧮 [Contains Duplicate](./Week-1-Arrays/01-Contains-Duplicate/)
 - 📈 [Best Time to Buy and Sell Stock](./Week-1-Arrays/02-Best-Time-to-Buy-and-Sell-Stock/)
 - 📊 [Maximum Subarray](./Week-1-Arrays/03-Maximum-Subarray/)
--  More coming......
----
+- 🔢 [Two Sum](./Week-1-Arrays/04-Two-Sum/)
+- 🧊 [Product of Array Except Self](./Week-1-Arrays/05-Product-of-Array-Except-Self/)
+- 🚚 [Move Zeroes](./Week-1-Arrays/06-Move-Zeroes/)
 
+- More coming......
+---
 Consistency > Intensity.
