@@ -1,9 +1,9 @@
+
 ---
 
-✅ 7️⃣ Remove Duplicates from Sorted Array
+# ✅ 7️⃣ Remove Duplicates from Sorted Array
 
-markdown
-```
+```markdown
 # Intuition
 The array is already sorted, which means duplicate elements will always appear next to each other.  
 Because of this property, we do not need extra space to remove duplicates.  
