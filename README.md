@@ -53,6 +53,8 @@ Each problem contains:
 - 🔢 [Two Sum](./Week-1-Arrays/04-Two-Sum/)
 - 🧊 [Product of Array Except Self](./Week-1-Arrays/05-Product-of-Array-Except-Self/)
 - 🚚 [Move Zeroes](./Week-1-Arrays/06-Move-Zeroes/)
+- 🔁 [Remove Duplicates from Sorted Array](./Week-1-Arrays/07-Remove-Duplicates-from-Sorted-Array/)
+- 🔀 [Merge Sorted Array](./Week-1-Arrays/08-Merge-Sorted-Array/)
 
 - More coming......
 ---
