@@ -1,7 +1,7 @@
 
 ----
 
-✅ 9️⃣ Valid Anagram
+# ✅ 9️⃣ Valid Anagram
 
 ```markdown
 # Intuition
