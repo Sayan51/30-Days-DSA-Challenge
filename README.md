@@ -55,6 +55,8 @@ Each problem contains:
 - 🚚 [Move Zeroes](./Week-1-Arrays/06-Move-Zeroes/)
 - 🔁 [Remove Duplicates from Sorted Array](./Week-1-Arrays/07-Remove-Duplicates-from-Sorted-Array/)
 - 🔀 [Merge Sorted Array](./Week-1-Arrays/08-Merge-Sorted-Array/)
+- 🔤 [Valid Anagram](./Week-1-Strings/09-Valid-Anagram/)
+- 🧩 [Group Anagrams](./Week-1-Strings/10-Group-Anagrams/)
 
 - More coming......
 ---
